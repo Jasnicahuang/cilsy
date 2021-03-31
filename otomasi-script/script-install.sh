@@ -7,4 +7,4 @@ service_b = mysql-server
  sudo apt-get install $service_a php php-mysql -y
 
 #Instalasi MySQL-Server
-
+ sudo apt-get install $service_b -y
