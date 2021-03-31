@@ -7,4 +7,4 @@ service_b = mysql-server
 
 
 #Instalasi MySQL-Server
-
+ sudo apt-get install $service_b -y
